@@ -6,6 +6,7 @@ public class monday {
         mondaytwo w = new mondaytwo();
         Scanner inp = new Scanner(System.in);
 
+        System.out.print("Example Value: 14:30:00 \n[00:00:00] Uses Military time (24-hr Format) \n");
         System.out.println("Enter Time for Alarm: ");
 
         String tme = inp.next();
