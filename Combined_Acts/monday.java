@@ -1,5 +1,5 @@
-import java.util.Scanner;
 import java.time.LocalTime;
+import java.util.Scanner;
 
 public class monday {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class monday {
         w.setAlarm(tme);
         w.showAlarm();
 
-        inp.close();
+        
     }    
 }
 

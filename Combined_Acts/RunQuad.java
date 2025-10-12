@@ -30,6 +30,6 @@ public class RunQuad {
                 return;
         }
         quad.showDescription();
-        input.close();
+        
     }
 }

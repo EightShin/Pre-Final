@@ -24,8 +24,7 @@ public class RunAnimal {
         animal.eat();
         animal.sleep();
         animal.makeSound();
-
-        animalScanner.close();
+        
     }
 }
 
